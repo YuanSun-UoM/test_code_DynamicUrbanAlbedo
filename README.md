@@ -82,7 +82,7 @@ The scripts listed below are used to show supplementary information such as inpu
 | 4.3  | [Regression](./4_supplimentary_information/4.3_regression)   | Use [Export.ipynb](./4_supplimentary_information/4.3_regression/Export.ipynb) to get the grid-cell level albedo and heat fluxes for [Calculation.ipynb](./4_supplimentary_information/4.3_regression/Calculation.ipynb) | NA                                                           |
 | 4.4  | [Urban surface heterogeneity in energy budget](./4_supplimentary_information/4.4_urban_surface_heterogeneity_energy) | Use [Export.ipynb](./4_supplimentary_information/4.4_urban_surface_heterogeneity_energy/Export.ipynb) to get *.csv from 2015 to 2099 | [Figure.ipynb](./4_supplimentary_information/4.4_urban_surface_heterogeneity_energy/Figure.ipynb) |
 | 4.5  | [Yearly atmosphere variables](./4_supplimentary_information/4.5_yearly_atmosphere_var) | Use [Export.ipynb](./4_supplimentary_information/4.5_yearly_atmosphere_var/Export.ipynb) to get the annual-mean outputs from 2015 to 2099 | [Figure.ipynb](./4_supplimentary_information/4.5_yearly_atmosphere_var/Figure.ipynb) |
-| 4.6  | [Computational performance](./4_supplimentary_information/4.6_computational_performance) | Compare [timing log](./4_supplimentary_information/4.6_computational_performance/timing_log) | [Figure.ipynb](./4_supplimentary_information/4.6_computational_performance) |
+| 4.6  | [Computational performance](./4_supplimentary_information/4.6_computational_performance) | Compare [timing log](./4_supplimentary_information/4.6_computational_performance/timing_log) | [Figure.ipynb](./4_supplimentary_information/4.6_computational_performance/Figure.ipynb) |
 
 ## Acknowledgments
 
